@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: GITHUBPAGE
+title: GithubPage
 slug: githubpage
 category: study
 menu: false
