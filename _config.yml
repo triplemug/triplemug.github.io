@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               TripleMug
+title:               Triplemug
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -44,14 +44,14 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    G-xxxx
+google_analytics:    G-N40GFR55RV
 
 # 댓글기능
 disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.7. by triplemug'
+copyright:           '&copy; 2020.7. by triplemug'
 
 # Format of the permalinks
 permalink:           
@@ -132,11 +132,3 @@ sass:
   style:             compressed
 
 
-tipue_search:
-     include:
-         pages: false
-         collections: []
-     exclude:
-         files: [search.html, index.html, tags.html]
-         categories: []
-         tags: []
