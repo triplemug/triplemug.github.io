@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Portfolio
+layout: about
 menu: true
 order: 1
 ---
@@ -23,40 +23,3 @@ font-weight:bold">
 > 연락처: triplemug@gmail.com
 
 > Github : <a href="triplemug.github.io">triplemug.github.io</a>
-
-
-## Education
----
->
-
-
-## Research Interest
----
-
-* test
-    + test
-
-
-## Project
----
-
-
-## Awards
----
-
-
-## Work Experiences
----
-
-
-
-## Skills and Certification
----
-
-
-## Patents
----
-
-
-
-
