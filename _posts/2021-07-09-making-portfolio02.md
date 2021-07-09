@@ -2,7 +2,7 @@
 layout: post
 title: '[portfolio] 02. 포트폴리오 제작기 -- 로고만들기'
 subtitle: 로고만들기
-date: '2021-07-09 10:59:00 +0900'
+date: '2021-07-09 18:14:00 +0900'
 categories: project
 tags: portfolio
 comments: true
