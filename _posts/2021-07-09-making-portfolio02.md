@@ -26,8 +26,6 @@ published: true
 - - -
 #### <span style="color:#4f86aa">Q: 어떤 가게에 사용할 로고인가요?</span>   
 
-컨셉충이네요.
-
 일단 저에게 애플파이는 외국 어머니들이 사과를 숭덩숭덩 썰어   
 휘뚜루마뚜루 구워내주시는 이미지가 있습니다.   
 ~~그렇다고 엄마손파이를 만들고싶은건 아니구요.~~
@@ -49,12 +47,12 @@ published: true
 나중에는 미트파이나 키라임파이, 키슈같은것도 팔겠죠. 어쩌면 타르트를 팔지도 모릅니다.
 
 * 그러므로 사과이미지는 <span style="color:#ff6347">OUT</span>   
-* 윗부분이 둥글게 부풀어오른것도 <span style="color:#ff6347">OUT</span>입니다. <span style="color:#ff6347">파이는 격자무늬죠.</span>   
+* 윗부분이 둥글게 부풀어오른것도 <span style="color:#ff6347">OUT</span>입니다. <span style="color:#ff6347"><i><b>파이는 격자무늬죠.</b></i></span>   
 * 한조각으로만 되어있는것도 <span style="color:#ff6347">OUT</span>입니다. 뭔가 케이크 같지않아요???   
 * 그렇다고 6조각으로 나뉘어서 한개만 나와있는것도 <span style="color:#ff6347">OUT</span>입니다. 피자같잖아요.   
 * 그리고 상호명만 적혀있는 로고도 <span style="color:#ff6347">OUT</span>입니다. 파이그림이 들어갔으면 좋겠습니다.
 
-이래서야 뭘 만들수는 있는걸까요.
+엄청 까다로워졌네요. 이래서야 뭘 만들수는 있는걸까요.
 
 - - -
 일단 가게이름을 정해보도록 하겠습니다.   
@@ -62,4 +60,4 @@ published: true
 세상에는 더 기상천외한 이름의 가게들이 많으니까 이정도는 아무것도 아닐겁니다.
 
 - - -
-가게이름이 <span style="color:#ff6347" title="포토샵 픽셀유동화 드립">Liqui pie</span>로 정해졌으니 이제는 어쩔수가 없이 촉촉한 파이를 팔아야겠어요.
+가게이름이 <span style="color:#ff6347" title="포토샵 픽셀유동화 드립">Liqui pie</span>로 정해졌으니 이제 위에 정리한대로 로고를 만들어보겠습니다.
